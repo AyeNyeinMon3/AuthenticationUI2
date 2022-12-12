@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignfive.app-mergeDebugResources-46:\\layout\\item_news.xml",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignfive.app-main-49:\\layout\\item_news.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignfive.app-mergeDebugResources-46:\\layout\\fragment_signup.xml",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignfive.app-main-49:\\layout\\fragment_signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignfive.app-mergeDebugResources-46:\\layout\\fragment_login.xml",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignfive.app-main-49:\\layout\\fragment_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignfive.app-mergeDebugResources-46:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignfive.app-main-49:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignfive.app-mergeDebugResources-46:\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignfive.app-main-49:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "com.example.uidesignfive.app-mergeDebugResources-46:/layout/fragment_home.xml",
+        "source": "com.example.uidesignfive.app-main-49:/layout/fragment_home.xml"
+    }
+]
